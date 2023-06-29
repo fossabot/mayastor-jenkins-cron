@@ -1,0 +1,14 @@
+develop:
+  default: "H H(0-6) * * *"
+release/1.0:
+  default: "H H(0-6) * * *"
+release/2.0:
+  default: "H H(19-23) * * 0"
+release/2.1:
+  default: "H H(19-23) * * 0"
+release/2.2:
+  default: "H H(0-5) * * *"
+release/2.3:
+  default: "H H(0-6) * * *"
+default:
+  default: ""
