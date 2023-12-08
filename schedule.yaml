@@ -9,8 +9,10 @@ release/2.1:
 release/2.2:
   default: ""
 release/2.3:
-  default: "H H(0-6) * * 0"
+  default: ""
 release/2.4:
+  default: ""
+release/2.5:
   default: "H H(0-6) * * *"
 default:
   default: ""
